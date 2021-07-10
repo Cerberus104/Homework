@@ -1,0 +1,13 @@
+.container {
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#nes-btn-item-btn {
+    color: red;
+}
+.nes-btn {
+    width: 250px;
+    height: 35px;
+
+}
